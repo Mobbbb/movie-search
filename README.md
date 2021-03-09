@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### image server install
+cnpm i http-server -g
+
+### run image server
+http-server ./ -c-1 -p 8088
